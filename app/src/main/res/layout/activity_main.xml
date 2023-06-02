@@ -145,7 +145,7 @@
         android:id="@+id/login"
         style="?attr/materialButtonOutlinedStyle"
         android:layout_width="111dp"
-        android:layout_height="45dp"
+        android:layout_height="48dp"
         android:layout_marginTop="36dp"
         android:text="LOG IN"
         app:layout_constraintEnd_toEndOf="parent"
